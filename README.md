@@ -10,15 +10,6 @@ Complete objectives while searching the worlds for characters, espers, and items
 ###### More Info| [wiki.ff6wc.com](https|//wiki.ff6wc.com)
 ###### Community| [discord](https|//discord.gg/5MPeng5)
 
-## Usage
-
-```sh
-$ python3 wc.py -i ffiii.smc
-```
-
-```sh
-$ python3 wc.py -h
-```
 
 An FF6 Worlds Collide ROM may be patched with custom configuration options: 
 
@@ -56,3 +47,5 @@ example:
 ```shell
 python3 wc_config.py -i ff6wc_test.smc -gauge off -batspeed 6 -msgspeed 1 -magorder 2 -w 2 -f 223122 -w2 121612.020904.000900.050610.050806.040905.000001
 ```
+
+FF6WC_customize_config is currently compatible with the WorldsCollide-beta branch (https://github.com/asilverthorn/WorldsCollide/tree/beta).  Compatibility with WorldsCollide-main is anticipated in version 1.2.0.
